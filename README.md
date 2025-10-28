@@ -9,7 +9,7 @@ Building intelligent automation systems and production-grade applications with P
 ## 🤖 AI Agents & Automation
 
 ### [oTTomator Live Agent Studio](https://github.com/ottomator-agents)
-Contributing to **66+ open-source AI agents** for the community-driven platform
+Contributing to **many open-source AI agents** for the community-driven platform
 
 - 🧠 **AI Orchestration:** Claude SDK, LangChain, LangGraph, Pydantic AI
 - 🔗 **Model Context Protocol (MCP):** AI tool communication and integration
@@ -61,8 +61,6 @@ Production-grade real-time multiplayer systems
 
 **Projects:**
 - [Minesweeper Multiplayer](https://github.com/tysonsiruno/minesweeper-multiplayer) - 5 game modes, 290+ bugs fixed
-- [Sudoku Multiplayer](https://github.com/tysonsiruno/sudoku-multiplayer) - Race, Collaborative, Turn-based
-- [Snake Survival Game](https://github.com/tysonsiruno/snake-survival-game) - Real-time gameplay
 
 ---
 
