@@ -25,18 +25,6 @@ Contributing to **many open-source AI agents** for the community-driven platform
 
 ---
 
-## 🔧 Current Work
-
-### n8n Internship
-Contributing to n8n core platform, documentation, and community workflows
-
-- 📖 Learning n8n architecture and TypeScript codebase
-- 🛠️ Building custom community nodes (MCP, Globals, ElevenLabs)
-- 📝 Documenting workflows and best practices
-- 🌐 Exploring Model Context Protocol integration
-
----
-
 ## 💼 Production Projects
 
 ### [Document Analyzer 3000](https://github.com/tysonsiruno/document-analyzer)
@@ -67,19 +55,31 @@ Production-grade real-time multiplayer systems
 ## 🛠️ Technical Skills
 
 **Languages:**
-`Python (3.11+)` `JavaScript` `TypeScript` `SQL` `HTML/CSS`
+`Python (3.11+)` `JavaScript` `TypeScript` `SQL` `HTML/CSS` `Bash/Shell` `PLpgSQL`
 
-**AI/ML:**
-`Claude SDK` `LangChain` `LangGraph` `Pydantic AI` `Model Context Protocol (MCP)` `RAG` `OpenAI SDK`
+**AI/ML & Frameworks:**
+`Claude SDK` `LangChain` `LangGraph` `Pydantic AI` `Model Context Protocol (MCP)` `RAG Systems` `OpenAI SDK` `Vector Databases` `Knowledge Graphs`
 
-**Backend:**
-`Flask` `Socket.IO` `PostgreSQL` `Redis` `SQLite` `JWT` `bcrypt`
+**Backend & APIs:**
+`Flask` `Socket.IO` `REST APIs` `WebSocket` `PostgreSQL` `Redis` `SQLite` `MongoDB` `JWT Authentication` `bcrypt` `CORS`
+
+**Frontend:**
+`Vanilla JavaScript` `Canvas API` `DOM Manipulation` `CSS3` `Responsive Design` `HTML5` `LocalStorage` `Fetch API`
 
 **Automation & DevOps:**
-`n8n` `Docker` `Git/GitHub` `CI/CD` `GitHub Actions`
+`n8n` `Docker` `Docker Compose` `Git/GitHub` `CI/CD` `GitHub Actions` `Nginx` `Process Management` `Shell Scripting`
+
+**Testing & Quality:**
+`Unit Testing` `Integration Testing` `Debugging` `Performance Optimization` `Code Review` `Error Handling`
+
+**Database & Data:**
+`PostgreSQL` `Redis Caching` `Database Design` `Query Optimization` `Connection Pooling` `Data Pipelines` `Full-Text Search`
+
+**Security:**
+`JWT Tokens` `Password Hashing` `Rate Limiting` `CSRF Protection` `XSS Prevention` `Input Validation` `Secure Headers`
 
 **Specialties:**
-`AI Agents` `Workflow Automation` `Real-time Systems` `WebSocket Communication` `Database Optimization`
+`AI Agent Development` `Workflow Automation` `Real-time Multiplayer Systems` `WebSocket Communication` `Database Optimization` `OCR & Document Processing`
 
 ---
 
@@ -103,10 +103,9 @@ I learn by building. I question everything. I focus on practical implementation 
 
 ## 📫 Connect
 
+- **LinkedIn:** [linkedin.com/in/tyson-siruno-227745395](https://www.linkedin.com/in/tyson-siruno-227745395/)
 - **Portfolio:** [tysonsiruno.github.io/portfolio](https://tysonsiruno.github.io/portfolio)
 - **Email:** Tysonsiruno@gmail.com
 - **Location:** Lehi, Utah, USA
 
 ---
-
-**Currently:** Learning Claude Code workflows and Model Context Protocol integration for autonomous AI agents.
